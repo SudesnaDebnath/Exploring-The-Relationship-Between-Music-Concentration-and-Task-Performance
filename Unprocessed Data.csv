@@ -1,0 +1,302 @@
+Res_ID,Age,Occupation,Duration,Activity,Genre,Music_Volume,Help_concentrate,Genre_Distraction,Productivity,Long_Duration,Stress_relief,Critical_productivity
+U_01,18-25,Student,Rarely,"Writing or creating something, Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Yes,No,With music,No music at all,Yes,I don't listen to music
+U_02,18-25,Student,Sometimes,Physical tasks,"Instrumental,Electronic/Dance,Nature sounds",Low/Soft,Makes no difference,Maybe,Without music,Music with breaks in between,Yes,Increases productivity
+U_03,18-25,Student,Often,"Writing or creating something, Physical tasks, Leisure activity","Instrumental,Songs with lyrics",Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_04,18-25,Student,Often,"Solving problems,Physical tasks","Instrumental,Songs with lyrics,No preference",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,No difference
+U_05,18-25,Student,Sometimes,"Writing or creating something, Physical tasks, Travelling ","Instrumental,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music with breaks in between,sometimes,No difference
+U_06,18-25,Student,Often,Physical tasks,"Instrumental,Songs with lyrics",Low/Soft,No,Yes,Without music,No music at all,sometimes,Decreases productivity
+U_07,26-35,Office work,Sometimes,"Solving problems,Physical tasks",Songs with lyrics,Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_08,18-25,Office work,Often,"Solving problems,Physical tasks","Instrumental,Electronic/Dance, Songs with lyrics",Moderate,No,Yes,Without music,Music with breaks in between,Yes,I don't listen to music
+U_09,18-25,Student,Sometimes,"Solving problems,Physical tasks","Instrumental,Electronic/Dance",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,I don't listen to music
+U_10,18-25,Student,Often,"Reading, Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_11,26-35,Office work,Often,"Writing or creating something, Solving problems, Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Makes no difference,Maybe,Without music,Music with breaks in between,Yes,Decreases productivity
+U_12,18-25,Student,Sometimes,Physical tasks ,Songs with lyrics,Moderate,Yes,Yes,With music,Music with breaks in between,sometimes,Increases productivity
+U_13,18-25,Student,Always,Writing or creating something,Nature sounds,Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_14,18-25,Office work,Always,Writing or creating something,Songs with lyrics,Low/Soft,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_15,36 above,Office work,Always,Solving problems,Nature sounds,Low/Soft,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_16,18-25,Student,Always,Cooking,Instrumental,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_17,18-25,Student,Often,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics",Low/Soft,Yes,Yes,Without music,Music with breaks in between,Yes,Increases productivity
+U_18,26-35,Office work,Often,"Solving problems,Physical tasks",No preference,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_19,18-25,Student,Sometimes,"Solving problems,Physical tasks",Songs with lyrics,Moderate,No,Yes,Without music,No music at all,Yes,Decreases productivity
+U_20,18-25,Student,Often,"Writing or creating something, Solving problems",Songs with lyrics,Low/Soft,Makes no difference,Yes,Without music,Music with breaks in between,sometimes,No difference
+U_21,18-25,Student,Always,"Reading, Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_22,26-35,Office work,Sometimes,Writing or creating something,Songs with lyrics,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_23,18-25,Student,Sometimes,Travelling ,Songs with lyrics,Moderate,Yes,Maybe,Without music,Music with breaks in between,Yes,No difference
+U_24,18-25,Office work,Often,"Solving problems,Physical tasks","Instrumental,No preference",Low/Soft,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_25,26-35,Office work,Often,"Writing or creating something,Solving problems,Physical tasks","Rock, Electronic/Dance",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_26,26-35,Self-Employed,Sometimes,Physical tasks,"Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Makes no difference,Yes,With music,Music with breaks in between,Yes,No difference
+U_27,18-25,Office work,Often,"Writing or creating something,Solving problems,Physical tasks","Rock, Songs with lyrics,No preference",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Decreases productivity
+U_28,26-35,Office work,Sometimes,Writing or creating something,Electronic/Dance,Moderate,No,Yes,With music,Music with breaks in between,Yes,Decreases productivity
+U_29,18-25,Student,Sometimes,"Solving problems,Physical tasks",Nature sounds,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_30,18-25,Student,Always,"Reading,Solving problems,Physical tasks","Rock,Electronic/Dance,Songs with lyrics",Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_31,18-25,Student,Sometimes,"Solving problems,Physical tasks","Instrumental,Songs with lyrics",Low/Soft,Yes,Maybe,With music,No music at all,sometimes,Increases productivity
+U_32,18-25,Student,Always,"Reading,Writing or creating something,Physical tasks","Instrumental,Rock",Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_33,18-25,Student,Always,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics",Moderate,Yes,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_34,18-25,Student,Sometimes,"Writing or creating something, Physical tasks","Instrumental,Nature sounds",Low/Soft,Yes,Maybe,With music,No music at all,Yes,Decreases productivity
+U_35,18-25,Student,Always,"Reading,Writing or creating something,Physical tasks","Instrumental,Songs with lyrics",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_36,18-25,Student,Often,Physical tasks,Instrumental,Moderate,Yes,Yes,Without music,No music at all,sometimes,Decreases productivity
+U_37,18-25,Student,Always,Writing or creating something,Songs with lyrics,Low/Soft,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_38,18-25,Student,Often,Physical tasks,"Rock,Electronic/Dance,Songs with lyrics",High,No,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_39,18-25,Office work,Often,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Decreases productivity
+U_40,18-25,Student,Sometimes,Writing or creating something,Songs with lyrics,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Decreases productivity
+U_41,18-25,Student,Always,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Electronic/Dance",Moderate,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_42,18-25,Student,Always,"Solving problems,Physical tasks","Instrumental,Rock",High,Yes,Yes,With music,Music playing the entire time,Yes,No difference
+U_43,18-25,Student,Often,"Writing or creating something, Physical tasks","Instrumental,Electronic/Dance, Songs with lyrics",Moderate,Yes,Yes,Without music,No music at all,Yes,I don't listen to music
+U_44,26-35,Creative/Artistic field,Always,"Solving problems,Physical tasks","Songs with lyrics,Nature sounds",Moderate,Makes no difference,Yes,With music,Music with breaks in between,Yes,Decreases productivity
+U_45,18-25,Self-Employed,Sometimes,"Writing or creating something,Solving problems,Physical tasks",Songs with lyrics,Moderate,Yes,Yes,Without music,Music with breaks in between,sometimes,No difference
+U_46,18-25,Student,Often,"Writing or creating something, Solving problems","Instrumental, Electronic/Dance, Songs with lyrics,No preference",Moderate,Yes,Maybe,Without music,Music with breaks in between,sometimes,No difference
+U_47,18-25,Student,Often,"Writing or creating something, Solving problems","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_48,18-25,Student,Often,"Writing or creating something, Solving problems","Rock,Electronic/Dance,Songs with lyrics",High,Yes,Maybe,Without music,Music with breaks in between,Yes,No difference
+U_49,18-25,Teacher,Always,"Reading, Writing or creating something,Solving problems,Physical tasks","Songs with lyrics,Nature sounds",Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_50,18-25,Self-Employed,Often,Writing or creating something,Songs with lyrics,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_51,26-35,Office work,Rarely,Physical tasks,Songs with lyrics,Moderate,Makes no difference,Yes,Without music,No music at all,Yes,I don't listen to music
+U_52,18-25,Student,Often,"Reading,Physical tasks","Instrumental,Electronic/Dance,Nature sounds",Moderate,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_53,36 above,Retired,Sometimes,Writing or creating something,Songs with lyrics,Low/Soft,Makes no difference,Maybe,Without music,No music at all,sometimes,No difference
+U_54,26-35,Student,Often,Physical tasks,Songs with lyrics,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_55,18-25,Office work,Always,"Reading, Writing or creating something,Leisure activity,Physical tasks","Instrumental,Songs with lyrics,Nature sounds,No preference",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,I don't listen to music
+U_56,18-25,Student,Often,"Solving problems,Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_57,26-35,Homemaker,Always,"Reading, Writing or creating something,Solving problems,Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_58,26-35,Self-Employed,Rarely,Physical tasks,Instrumental,Moderate,Makes no difference,Yes,Without music,Music with breaks in between,Yes,I don't listen to music
+U_59,18-25,Student,Sometimes,Physical tasks,Songs with lyrics,Low/Soft,No,Maybe,Without music,No music at all,Yes,Decreases productivity
+U_60,18-25,Student,Rarely,Writing or creating something,Nature sounds,Low/Soft,No,Yes,Without music,Music with breaks in between,No,No difference
+U_61,Under 18,Student,Always,Physical tasks,Electronic/Dance,High,Yes,Maybe,With music,Music playing the entire time,Yes,Decreases productivity
+U_62,18-25,Student,Always,"Writing or creating something, Physical tasks","Instrumental,Rock,Electronic/Dance",Low/Soft,Yes,Maybe,With music,Music playing the entire time,sometimes,I don't listen to music
+U_63,Under 18,Student,Always,Writing or creating something,Instrumental,Low/Soft,No,No,With music,Music playing the entire time,Yes,I don't listen to music
+U_64,18-25,Student,Always,"Writing or creating something,Solving problems,Physical tasks",Songs with lyrics,Moderate,Yes,Yes,With music,Music playing the entire time,Yes,No difference
+U_65,18-25,Office work,Always,"Reading,Solving problems","Rock,Electronic/Dance,Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_66,18-25,Self-Employed,Often,"Reading, Writing or creating something,Solving problems,Physical tasks",Songs with lyrics,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,I don't listen to music
+U_67,18-25,Creative/Artistic field,Always,"Writing or creating something, Solving problems","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Low/Soft,Yes,Yes,With music,Music with breaks in between,sometimes,Increases productivity
+U_68,18-25,Student,Always,Writing or creating something,Songs with lyrics,Moderate,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_69,18-25,Work from home,Always,Reading,Rock,Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Decreases productivity
+U_70,18-25,Student,Always,Writing or creating something,Songs with lyrics,Low/Soft,No,Maybe,With music,Music with breaks in between,sometimes,No difference
+U_71,18-25,Student,Sometimes,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics",Low/Soft,No,Yes,Without music,Music with breaks in between,Yes,No difference
+U_72,18-25,Office work,Often,Leisure activity ,"Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",High,Makes no difference,Yes,Without music,Music with breaks in between,Yes,No difference
+U_73,18-25,Student,Always,Reading,Songs with lyrics,Low/Soft,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_74,18-25,Teacher,Always,"Writing or creating something,Solving problems,Physical tasks","Rock,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_75,18-25,Office work,Often,"Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics",Moderate,Makes no difference,Yes,Without music,Music with breaks in between,Yes,Decreases productivity
+U_76,26-35,Office work,Often,Physical tasks,"Instrumental,Songs with lyrics",Low/Soft,No,Yes,Without music,No music at all,Yes,Decreases productivity
+U_77,18-25,Office work,Often,Physical tasks,"Songs with lyrics,No preference",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Decreases productivity
+U_78,26-35,Student,Often,Writing or creating something,Songs with lyrics,High,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_79,18-25,Student,Often,Leisure activity,"Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,No music at all,Yes,No difference
+U_80,18-25,Office work,Always,"Reading, Writing or creating something,Solving problems,Physical tasks","Instrumental,Songs with lyrics",Moderate,Makes no difference,Yes,Without music,No music at all,Yes,Increases productivity
+U_81,18-25,Student,Often,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Moderate,Makes no difference,No,With music,Music with breaks in between,Yes,No difference
+U_82,26-35,Office work,Always,Physical tasks,Songs with lyrics,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,No difference
+U_83,18-25,Student,Sometimes,"Writing or creating something, Physical tasks","Songs with lyrics,Nature sounds",Moderate,Yes,Maybe,With music,Music with breaks in between,sometimes,Increases productivity
+U_84,18-25,Office work,Always,"Writing or creating something, Solving problems","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_85,18-25,Student,Often,Solving problems,"Instrumental,Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,No difference
+U_86,Under 18,Student,Sometimes,"Solving problems,Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Low/Soft,Yes,Maybe,Without music,No music at all,Yes,Increases productivity
+U_87,18-25,Student,Often,Writing or creating something,"Instrumental,Songs with lyrics,Nature sounds",Moderate,Makes no difference,Yes,Without music,Music with breaks in between,Yes,No difference
+U_88,26-35,Teacher,Sometimes,Physical tasks,Songs with lyrics,Low/Soft,Yes,No,Without music,No music at all,Yes,Increases productivity
+U_89,Under 18,Student,Often,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_90,18-25,Student,Sometimes,"Solving problems,Physical tasks","Electronic/Dance, Songs with lyrics",Low/Soft,Yes,Yes,Without music,No music at all,Yes,Decreases productivity
+U_91,18-25,Student,Often,"Solving problems,Physical tasks",No preference,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_92,18-25,Student,Often,"Reading, Writing or creating something, Solving problems ","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Low/Soft,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_93,18-25,Work from home,Always,"Writing or creating something, Physical tasks","Instrumental,Rock,Songs with lyrics",Moderate,Yes,Yes,Without music,No music at all,Yes,Decreases productivity
+U_94,18-25,Student,Always,"Reading,Writing or creating something,Physical tasks","Instrumental,Electronic/Dance, Songs with lyrics,Nature sounds",High,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_95,18-25,Student,Sometimes,Writing or creating something,No preference,High,No,Yes,With music,No music at all,Yes,Decreases productivity
+U_96,26-35,Office work,Always,"Reading,Writing or creating something,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics",Moderate,Yes,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_97,18-25,Office work,Sometimes,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Makes no difference,Yes,Without music,Music with breaks in between,sometimes,No difference
+U_98,18-25,Office work,Sometimes,Physical tasks,Songs with lyrics,Low/Soft,Yes,Yes,With music,No music at all,sometimes,Increases productivity
+U_99,18-25,Student,Sometimes,Writing or creating something,Songs with lyrics,Moderate,Makes no difference,Maybe,Without music,Music playing the entire time,sometimes,No difference
+U_100,18-25,Office work,Rarely,Travelling,Songs with lyrics,Moderate,No,No,With music,Music playing the entire time,Yes,Increases productivity
+U_101,18-25,Student,Always,Physical tasks,"Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music with breaks in between,No,Increases productivity
+U_102,18-25,Student,Sometimes,Physical tasks,Songs with lyrics,Moderate,Yes,Maybe,With music,Music playing the entire time,sometimes,Increases productivity
+U_103,18-25,Student,Sometimes,"Writing or creating something, Physical tasks",Songs with lyrics,Low/Soft,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_104,18-25,Student,Sometimes,Physical tasks,Songs with lyrics,Moderate,Yes,Maybe,With music,Music playing the entire time,sometimes,Increases productivity
+U_105,18-25,Student,Always,Writing or creating something,No preference,Moderate,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_106,18-25,Student,Always,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Songs with lyrics",Low/Soft,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_107,18-25,Student,Always,Physical tasks,"Instrumental,Rock,Songs with lyrics",Moderate,No,Yes,With music,Music with breaks in between,Yes,Decreases productivity
+U_108,26-35,Student,Sometimes,Leisure activity,Songs with lyrics,Moderate,Yes,Yes,With music,No music at all,Yes,Increases productivity
+U_109,18-25,Student,Often,Physical tasks,Songs with lyrics,Moderate,Makes no difference,Maybe,With music,Music with breaks in between,Yes,I don't listen to music
+U_110,18-25,Student,Often,"Physical tasks, Travelling ","Instrumental,Songs with lyrics",Moderate,No,Yes,Without music,Music playing the entire time,Yes,Decreases productivity
+U_111,18-25,Student,Always,Physical tasks,Instrumental,Low/Soft,Yes,Yes,With music,Music playing the entire time,Yes,No difference
+U_112,Under 18,Student,Often,Leisure activity,Instrumental,Low/Soft,Makes no difference,Maybe,With music,Music playing the entire time,sometimes,No difference
+U_113,18-25,Student,Sometimes,Leisure activity,Songs with lyrics,Moderate,No,Yes,With music,No music at all,Yes,No difference
+U_114,18-25,Student,Sometimes,"Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics",Moderate,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_115,18-25,Student,Sometimes,"Reading, Writing or creating something,Solving problems,Physical tasks","Songs with lyrics,Nature sounds",High,Yes,Maybe,With music,Music with breaks in between,sometimes,No difference
+U_116,18-25,Student,Rarely,Physical tasks,Songs with lyrics,Low/Soft,No,Yes,Without music,No music at all,No,Decreases productivity
+U_117,18-25,Office work,Rarely,Physical tasks,"Instrumental,Electronic/Dance,Nature sounds",Low/Soft,No,Yes,Without music,No music at all,sometimes,Decreases productivity
+U_118,18-25,Office work,Sometimes,Physical tasks,No preference,High,Yes,Maybe,With music,Music with breaks in between,sometimes,Increases productivity
+U_119,18-25,Student,Sometimes,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,sometimes,Increases productivity
+U_120,18-25,Student,Always,Physical tasks,Songs with lyrics,Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_121,18-25,Student,Sometimes,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Low/Soft,Yes,Yes,With music,Music playing the entire time,sometimes,I don't listen to music
+U_122,18-25,Student,Often,Solving problems,"Instrumental,Nature sounds",Low/Soft,No,Yes,Without music,Music with breaks in between,Yes,Increases productivity
+U_123,36 above,Office work,Often,Solving problems,Songs with lyrics,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_124,18-25,Student,Sometimes,Solving problems,Songs with lyrics,Moderate,Yes,Maybe,With music,Music with breaks in between,sometimes,Increases productivity
+U_125,26-35,Office work,Often,"Reading, Writing or creating something,Solving problems,Physical tasks","Rock, Electronic/Dance",High,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_126,18-25,Teacher,Sometimes,Physical tasks,Instrumental,Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_127,18-25,Office work,Sometimes,"Solving problems,Physical tasks","Instrumental,Songs with lyrics",Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,No difference
+U_128,18-25,Teacher,Always,Cooking,Songs with lyrics,High,Yes,No,With music,Music playing the entire time,Yes,Decreases productivity
+U_129,26-35,Office work,Sometimes,"Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance",Moderate,Makes no difference,Yes,Without music,Music with breaks in between,Yes,Decreases productivity
+U_130,18-25,Student,Sometimes,"Writing or creating something, Solving problems",Instrumental,Moderate,Makes no difference,Maybe,Without music,No music at all,Yes,Increases productivity
+U_131,Under 18,Student,Always,Writing or creating something,"Songs with lyrics,Nature sounds",High,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_132,18-25,Student,Rarely,Solving problems,Songs with lyrics,Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_133,18-25,Student,Sometimes,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Songs with lyrics",Low/Soft,Yes,Yes,Without music,Music with breaks in between,Yes,Decreases productivity
+U_134,18-25,Self-Employed,Always,Leisure activity ,Instrumental,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_135,26-35,Office work,Always,"Reading,Writing or creating something,Physical tasks","Rock,Songs with lyrics",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Decreases productivity
+U_136,18-25,Student,Always,"Travelling, writing or creating something",No preference,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_137,Under 18,Student,Sometimes,Physical tasks,Songs with lyrics,Moderate,Yes,No,With music,Music playing the entire time,Yes,Decreases productivity
+U_138,18-25,Student,Sometimes,Physical tasks,No preference,Moderate,Yes,Yes,With music,Music with breaks in between,sometimes,Decreases productivity
+U_139,18-25,Student,Always,Solving problems,Songs with lyrics,High,Makes no difference,Yes,With music,Music with breaks in between,Yes,Decreases productivity
+U_140,18-25,Student,Often,"Solving problems,Physical tasks","Instrumental,Songs with lyrics,No preference",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_141,26-35,Self-Employed,Often,Cooking ,Songs with lyrics,Moderate,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_142,18-25,Student,Sometimes,Physical tasks,Songs with lyrics,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Decreases productivity
+U_143,26-35,Office work,Sometimes,Physical tasks,"Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,Without music,Music playing the entire time,Yes,No difference
+U_144,18-25,Student,Often,"Solving problems ,Physical tasks",No preference,Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_145,18-25,Student,Sometimes,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,No difference
+U_146,36 above,Self-Employed,Always,Reading,Songs with lyrics,Low/Soft,Yes,Yes,With music,Music with breaks in between,No,Increases productivity
+U_147,18-25,Student,Often,"Reading, Writing or creating something,Solving problems,Physical tasks","Instrumental,Electronic/Dance, Songs with lyrics",Moderate,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_148,26-35,Office work,Often,Leisure activity,"Songs with lyrics,Nature sounds",Low/Soft,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_149,18-25,Office work,Sometimes,Physical tasks,Instrumental,Low/Soft,No,Yes,Without music,No music at all,Yes,No difference
+U_150,26-35,Office work,Often,Physical tasks,"Instrumental,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_151,18-25,Student,Sometimes,"Reading,Solving problems",Songs with lyrics,Low/Soft,Makes no difference,No,Without music,Music playing the entire time,Yes,Increases productivity
+U_152,18-25,Student,Always,"Reading, Writing or creating something,Solving problems,Physical tasks,Cooking","Songs with lyrics,Nature sounds",Moderate,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_153,18-25,Student,Always,Writing or creating something,Songs with lyrics,High,Yes,Yes,With music,Music playing the entire time,No,Increases productivity
+U_154,18-25,Office work,Often,Travelling ,Instrumental,Low/Soft,Makes no difference,Yes,Without music,Music with breaks in between,sometimes,No difference
+U_155,26-35,Office work,Sometimes,Physical tasks,Songs with lyrics,Moderate,Yes,No,With music,Music playing the entire time,No,Increases productivity
+U_156,26-35,Office work,Rarely,Physical tasks,No preference,Moderate,Yes,Yes,Without music,Music with breaks in between,sometimes,I don't listen to music
+U_157,18-25,Creative/Artistic field,Always,"Reading, Writing or creating something,Solving problems,Physical tasks, Always ",Songs with lyrics,Moderate,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_158,26-35,Office work,Always,Reading,"Instrumental,Rock,Electronic/Dance",Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_159,18-25,Student,Often,Writing or creating something,"Instrumental,Nature sounds",Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_160,18-25,Student,Often,"Writing or creating something, Physical tasks","Instrumental,Electronic/Dance, Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_161,18-25,Student,Sometimes,Solving problems,"Instrumental,Rock,Electronic/Dance,Songs with lyrics",Moderate,Makes no difference,Yes,Without music,Music with breaks in between,sometimes,No difference
+U_162,18-25,Student,Sometimes,"Writing or creating something, Physical tasks",Songs with lyrics,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_163,18-25,Office work,Always,"Reading, Writing or creating something,Solving problems,Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Low/Soft,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_164,18-25,Student,Often,"Writing or creating something, Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Makes no difference,Yes,With music,Music with breaks in between,Yes,Decreases productivity
+U_165,18-25,Student,Often,"Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds,No preference",Moderate,Yes,Yes,With music,Music with breaks in between,sometimes,Increases productivity
+U_166,18-25,Student,Sometimes,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,No difference
+U_167,18-25,Student,Sometimes,Physical tasks,"Rock,Electronic/Dance,Songs with lyrics",Moderate,No,Yes,Without music,No music at all,No,Decreases productivity
+U_168,18-25,Student,Often,Physical tasks,Songs with lyrics,Moderate,Makes no difference,Yes,With music,Music playing the entire time,Yes,No difference
+U_169,26-35,Work from home,Rarely,"Writing or creating something,Solving problems,Physical tasks","Songs with lyrics,Nature sounds",Moderate,Makes no difference,Yes,Without music,No music at all,Yes,Decreases productivity
+U_170,26-35,Office work,Always,Physical tasks,"Instrumental,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_171,36 above,Office work,Often,Physical tasks,No preference,Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_172,18-25,Student,Often,"Reading,Writing or creating something,Solving problems",Songs with lyrics,Low/Soft,Yes,Maybe,With music,Music playing the entire time,sometimes,No difference
+U_173,26-35,Office work,Always,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Nature sounds",Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_174,18-25,Student,Always,Writing or creating something,Electronic/Dance,High,Yes,Yes,With music,Music with breaks in between,Yes,I don't listen to music
+U_175,Under 18,Student,Sometimes,"Writing or creating something, Physical tasks","Instrumental,Electronic/Dance, Songs with lyrics",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_176,18-25,Student,Always,Physical tasks,No preference,High,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_177,18-25,Student,Sometimes,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock",Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,I don't listen to music
+U_178,26-35,Creative/Artistic field,Often,"Writing or creating something, Physical tasks",Songs with lyrics,Low/Soft,Yes,Yes,With music,Music with breaks in between,No,Increases productivity
+U_179,26-35,Work from home,Always,"Reading,Solving problems,Physical tasks",Nature sounds,Low/Soft,Yes,Yes,With music,Music playing the entire time,sometimes,Increases productivity
+U_180,18-25,Office work,Often,"Reading,Writing or creating something,Physical tasks","Rock,Nature sounds",High,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_181,18-25,Student,Sometimes,"Writing or creating something, Physical tasks",Songs with lyrics,Moderate,Yes,Yes,With music,Music playing the entire time,Yes,No difference
+U_182,18-25,Student,Always,"Writing or creating something, Solving problems, Physical tasks",Songs with lyrics,Moderate,Yes,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_183,36 above,Office work,Rarely,Physical tasks,Songs with lyrics,Low/Soft,Makes no difference,Maybe,Without music,Music with breaks in between,sometimes,No difference
+U_184,18-25,Student,Often,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,Without music,Music with breaks in between,sometimes,Decreases productivity
+U_185,26-35,Work from home,Sometimes,"Writing or creating something, Physical tasks","Instrumental,Rock,Songs with lyrics",Moderate,Makes no difference,Yes,Without music,Music with breaks in between,sometimes,No difference
+U_186,18-25,Student,Sometimes,"Writing or creating something,Physical tasks,Physical tasks",Songs with lyrics,Moderate,Makes no difference,No,With music,Music playing the entire time,sometimes,No difference
+U_187,18-25,Student,Often,Writing or creating something,No preference,Moderate,Makes no difference,Yes,With music,Music with breaks in between,Yes,No difference
+U_188,26-35,Office work,Always,Travelling ,"Instrumental,Songs with lyrics",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_189,26-35,Student,Always,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Moderate,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_190,18-25,Self-Employed,Often,"Reading,Physical tasks,Leisure activity","Nature sounds,No preference",Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_191,18-25,Office work,Always,"Writing or creating something, Physical tasks","Rock, Songs with lyrics,No preference",Moderate,Makes no difference,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_192,26-35,Teacher,Sometimes,Travelling ,"Rock,Songs with lyrics,Nature sounds",High,Yes,Yes,Without music,Music with breaks in between,Yes,Decreases productivity
+U_193,36 above,Self-Employed,Sometimes,Solving problems,Rock,Low/Soft,Yes,Yes,With music,No music at all,Yes,Increases productivity
+U_194,26-35,Work from home,Rarely,"Physical tasks, Leisure activity",No preference,Moderate,Makes no difference,No,Without music,Music with breaks in between,No,No difference
+U_195,26-35,Student,Often,"Solving problems,Physical tasks",Songs with lyrics,Moderate,No,Yes,With music,No music at all,Yes,Decreases productivity
+U_196,26-35,Self-Employed,Always,Solving problems,Electronic/Dance,High,Yes,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_197,18-25,Student,Always,"Writing or creating something, Physical tasks","Instrumental,Electronic/Dance, Songs with lyrics",Moderate,Yes,Yes,With music,No music at all,Yes,Increases productivity
+U_198,26-35,Self-Employed,Often,"Solving problems, Physical tasks,Leisure activity","Instrumental,Songs with lyrics",Moderate,Makes no difference,Maybe,Without music,Music with breaks in between,Yes,No difference
+U_199,26-35,Unemployed,Sometimes,"Solving problems, Physical tasks,Leisure activity",No preference,Moderate,Makes no difference,Maybe,Without music,No music at all,sometimes,No difference
+U_200,18-25,Office work,Often,Writing or creating something,Songs with lyrics,Moderate,Yes,Maybe,With music,Music playing the entire time,Yes,No difference
+U_201,Under 18,Student,Sometimes,Writing or creating something,Songs with lyrics,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_202,18-25,Self-Employed,Always,"Reading, Writing or creating something","Instrumental,Electronic/Dance",Low/Soft,Yes,Maybe,With music,Music with breaks in between,No,No difference
+U_203,18-25,Student,Always,Reading,Instrumental,Moderate,Yes,Maybe,Without music,Music playing the entire time,Yes,Decreases productivity
+U_204,18-25,Student,Sometimes,Physical tasks,Songs with lyrics,Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_205,Under 18,Student,Often,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,sometimes,Increases productivity
+U_206,Under 18,Student,Always,Physical tasks,Instrumental,Low/Soft,Yes,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_207,18-25,Student,Always,Physical tasks,Nature sounds,Low/Soft,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_208,18-25,Student,Always,Physical tasks,Instrumental,Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_209,18-25,Student,Sometimes,Physical tasks,Songs with lyrics,High,No,Maybe,With music,No music at all,Yes,No difference
+U_210,26-35,Student,Always,Solving problems,Songs with lyrics,Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_211,Under 18,Student,Always,Solving problems,Nature sounds,Low/Soft,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_212,26-35,Self-Employed,Rarely,Cooking ,No preference,Low/Soft,Makes no difference,No,Without music,Music with breaks in between,No,No difference
+U_213,18-25,Student,Sometimes,Writing or creating something,Songs with lyrics,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,No difference
+U_214,18-25,Self-Employed,Always,Physical tasks,Nature sounds,Low/Soft,Makes no difference,Maybe,With music,Music playing the entire time,sometimes,Increases productivity
+U_215,Under 18,Student,Always,Physical tasks ,Electronic/Dance,Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_216,18-25,Student,Always,Leisure activity,Songs with lyrics,Low/Soft,No,No,With music,No music at all,No,No difference
+U_217,26-35,Office work,Sometimes,"Writing or creating something,Solving problems,Physical tasks","Rock,Electronic/Dance,Songs with lyrics",High,Yes,Yes,With music,Music with breaks in between,sometimes,Decreases productivity
+U_218,36 above,Office work,Sometimes,Physical tasks,Songs with lyrics,Low/Soft,Yes,Maybe,With music,No music at all,sometimes,No difference
+U_219,Under 18,Student,Always,Physical tasks,Songs with lyrics,High,No,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_220,18-25,Student,Often,"Writing or creating something, Physical tasks",No preference,Low/Soft,Yes,Yes,Without music,No music at all,Yes,No difference
+U_221,18-25,Student,Always,Physical tasks,"Instrumental,Songs with lyrics,Nature sounds",Moderate,Makes no difference,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_222,18-25,Student,Sometimes,"Solving problems,Physical tasks","Instrumental,Songs with lyrics",Moderate,Yes,Yes,With music,Music with breaks in between,sometimes,Increases productivity
+U_223,18-25,Work from home,Often,"Writing or creating something, Solving problems","Rock,Electronic/Dance,Songs with lyrics",Moderate,Makes no difference,Yes,Without music,No music at all,Yes,No difference
+U_224,36 above,Office work,Sometimes,"Solving problems,Physical tasks",Instrumental,Moderate,Makes no difference,Yes,Without music,Music with breaks in between,Yes,No difference
+U_225,Under 18,Student,Sometimes,Writing or creating something,Nature sounds,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_226,18-25,Student,Always,Physical tasks,Instrumental,Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_227,18-25,Student,Always,"Writing or creating something, Solving problems","Rock,Electronic/Dance,Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_228,Under 18,Student,Always,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics",Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_229,18-25,Student,Always,Writing or creating something,Songs with lyrics,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_230,18-25,Student,Rarely,Writing or creating something,Songs with lyrics,High,Yes,Maybe,With music,Music playing the entire time,sometimes,No difference
+U_231,18-25,Student,Often,Writing or creating something,Songs with lyrics,High,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_232,18-25,Student,Always,Writing or creating something,Songs with lyrics,High,Yes,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_233,18-25,Student,Always,Reading,Songs with lyrics,Low/Soft,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_234,18-25,Student,Often,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_235,18-25,Student,Often,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_236,18-25,Student,Rarely,Leisure activity ,No preference,High,No,No,Without music,No music at all,No,No difference
+U_237,Under 18,Student,Always,Reading,Instrumental,Low/Soft,Yes,Yes,With music,Music playing the entire time,sometimes,Increases productivity
+U_238,18-25,Student,Often,Leisure activity,Songs with lyrics,Low/Soft,Yes,Yes,Without music,Music playing the entire time,Yes,Decreases productivity
+U_239,18-25,Student,Sometimes,Writing or creating something,Nature sounds,Low/Soft,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_240,18-25,Student,Sometimes,Writing or creating something,Songs with lyrics,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_241,18-25,Student,Always,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics",Moderate,No,Yes,With music,No music at all,Yes,No difference
+U_242,18-25,Student,Often,"Reading, Writing or creating something,Solving problems,Physical tasks",Songs with lyrics,Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_243,26-35,Student,Always,"Reading,Physical tasks","Electronic/Dance, Nature sounds",High,Makes no difference,Yes,With music,Music with breaks in between,Yes,I don't listen to music
+U_244,18-25,Student,Sometimes,Physical tasks,Songs with lyrics,Moderate,Yes,Yes,With music,No music at all,sometimes,Increases productivity
+U_245,18-25,Student,Sometimes,Writing or creating something,"Songs with lyrics,Nature sounds",Low/Soft,Yes,No,With music,Music playing the entire time,Yes,Increases productivity
+U_246,18-25,Student,Sometimes,Physical tasks,Songs with lyrics,Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,No difference
+U_247,Under 18,Student,Always,Physical tasks,"Instrumental,Songs with lyrics",Moderate,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_248,36 above,Homemaker,Rarely,Physical tasks,Songs with lyrics,Low/Soft,Yes,Maybe,With music,Music with breaks in between,sometimes,I don't listen to music
+U_249,36 above,Self-Employed,Sometimes,Writing or creating something,Songs with lyrics,Low/Soft,Yes,No,With music,No music at all,Yes,No difference
+U_250,26-35,Office work,Often,"Writing or creating something, Solving problems",Songs with lyrics,Low/Soft,Yes,Yes,With music,Music with breaks in between,sometimes,I don't listen to music
+U_251,26-35,Office work,Often,Physical tasks,"Instrumental,Songs with lyrics",Low/Soft,Makes no difference,Yes,Without music,Music with breaks in between,sometimes,Decreases productivity
+U_252,36 above,Retired,Rarely,Physical tasks,"Instrumental,Songs with lyrics",Moderate,Makes no difference,Yes,Without music,No music at all,No,Decreases productivity
+U_253,36 above,Homemaker,Often,Physical tasks,"Electronic/Dance, Songs with lyrics",High,Yes,Yes,With music,Music with breaks in between,Yes,Decreases productivity
+U_254,36 above,Homemaker,Sometimes,Physical tasks,"Electronic/Dance, Songs with lyrics",Moderate,No,Yes,With music,Music playing the entire time,Yes,No difference
+U_255,18-25,Office work,Sometimes,"Physical tasks, Solving problems",No preference,High,Yes,No,With music,Music with breaks in between,Yes,No difference
+U_256,18-25,Student,Often,"Writing or creating something,Solving problems,Physical tasks",Instrumental,Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_257,18-25,Office work,Often,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_258,18-25,Student,Rarely,Physical tasks,"Instrumental,Songs with lyrics,Nature sounds",Low/Soft,Yes,Yes,Without music,No music at all,sometimes,No difference
+U_259,18-25,Office work,Often,Physical tasks,"Instrumental,Rock,Songs with lyrics",Moderate,Yes,Yes,With music,Music with breaks in between,sometimes,Increases productivity
+U_260,18-25,Student,Often,"Reading, Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics,Nature sounds",Moderate,No,Yes,Without music,No music at all,Yes,Decreases productivity
+U_261,18-25,Self-Employed,Often,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock",Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_262,18-25,Office work,Always,Physical tasks,"Instrumental,Rock,Electronic/Dance,Songs with lyrics",High,Yes,Yes,With music,Music with breaks in between,Yes,No difference
+U_263,18-25,Student,Often,"Physical tasks, Travelling","Instrumental,Electronic/Dance, Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,No difference
+U_264,18-25,Student,Often,"Writing or creating something,Solving problems,Physical tasks",Nature sounds,Moderate,Yes,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_265,18-25,Student,Always,"Writing or creating something,Solving problems,Physical tasks","Electronic/Dance, Songs with lyrics, No preference",Moderate,Yes,Maybe,With music,Music playing the entire time,Yes,I don't listen to music
+U_266,18-25,Student,Sometimes,"Reading,Physical tasks","Instrumental,Rock,Electronic/Dance",Moderate,Yes,Yes,Without music,Music playing the entire time,sometimes,Increases productivity
+U_267,18-25,Student,Often,"Writing or creating something, Solving problems , Physical tasks, Physical tasks",Songs with lyrics,Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_268,18-25,Student,Often,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Songs with lyrics",Moderate,Yes,No,With music,Music with breaks in between,Yes,Increases productivity
+U_269,18-25,Student,Always,Physical tasks,"Instrumental,Rock",High,Yes,Yes,With music,Music with breaks in between,sometimes,Increases productivity
+U_270,18-25,Student,Always,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Electronic/Dance, Songs with lyrics,Nature sounds",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_271,18-25,Student,Always,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_272,18-25,Student,Sometimes,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Electronic/Dance, Songs with lyrics,Nature sounds",Moderate,Makes no difference,Yes,Without music,No music at all,Yes,Decreases productivity
+U_273,18-25,Student,Sometimes,"Writing or creating something, Physical tasks","Rock,Electronic/Dance,Songs with lyrics",Moderate,Makes no difference,Yes,Without music,Music with breaks in between,sometimes,Decreases productivity
+U_274,18-25,Student,Often,"Reading,Writing or creating something,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics",High,Yes,Yes,With music,Music with breaks in between,Yes,Decreases productivity
+U_275,18-25,Student,Always,"Writing or creating something,Solving problems,Physical tasks","Instrumental,Rock,Electronic/Dance,Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_276,18-25,Creative/Artistic field,Often,"Reading,Writing or creating something,Physical tasks","Instrumental,Rock,Songs with lyrics,Nature sounds",Low/Soft,Yes,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_277,18-25,Student,Always,"Writing or creating something,Solving problems,Physical tasks",Songs with lyrics,Moderate,Makes no difference,Yes,Without music,No music at all,Yes,Decreases productivity
+U_278,18-25,Student,Always,"Reading, Writing or creating something,Solving problems,Physical tasks","Instrumental,Songs with lyrics",Low/Soft,Yes,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_279,18-25,Student,Often,"Writing or creating something,Physical tasks","Instrumental,Rock,Nature sounds",High,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_280,26-35,Office work,Sometimes,"Writing or creating something,Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_281,18-25,Student,Always,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Low/Soft,Yes,Yes,With music,Music with breaks in between,Yes,Increases productivity
+U_282,26-35,Student,Always,Writing or creating something,Songs with lyrics,Moderate,Yes,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_283,18-25,Student,Often,"Writing or creating something,Solving problems,Physical tasks",Songs with lyrics,Low/Soft,Yes,Yes,Without music,No music at all,Yes,Decreases productivity
+U_284,18-25,Office work,Sometimes,Physical tasks,Songs with lyrics,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_285,18-25,Student,Often,"Writing or creating something, Physical tasks","Rock,Electronic/Dance,Songs with lyrics",Moderate,Makes no difference,Yes,With music,Music playing the entire time,Yes,Increases productivity
+U_286,36 above,Work from home,Sometimes,"Reading,Physical tasks","Instrumental,Nature sounds",Low/Soft,Yes,Yes,Without music,Music with breaks in between,sometimes,Decreases productivity
+U_287,26-35,Unemployed,Sometimes,"Writing or creating something, Physical tasks, Travelling","Instrumental,Rock,Electronic/Dance,Songs with lyrics",High,Makes no difference,Maybe,With music,Music with breaks in between,sometimes,No difference
+U_288,26-35,Work from home,Sometimes,Physical tasks,"Instrumental,Songs with lyrics",Moderate,No,Yes,Without music,No music at all,No,Decreases productivity
+U_289,36 above,Homemaker,Rarely,Cooking,"Rock,Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,sometimes,No difference
+U_290,36 above,Retired,Rarely,Physical tasks,Instrumental,Low/Soft,No,Yes,Without music,No music at all,No,Decreases productivity
+U_291,36 above,Retired,Rarely,Physical tasks,Songs with lyrics,Moderate,No,Maybe,With music,Music with breaks in between,No,I don't listen to music
+U_292,26-35,Creative/Artistic field,Often,"Writing or creating something, Physical tasks","Instrumental,Songs with lyrics",Moderate,Yes,Yes,With music,Music with breaks in between,Yes,No difference
+U_293,Under 18,Student,Often,"Writing or creating something, Physical tasks","Rock,Electronic/Dance,Songs with lyrics",High,Yes,Maybe,With music,Music playing the entire time,Yes,Increases productivity
+U_294,36 above,Retired,Often,"Reading,Writing or creating something,Physical tasks","Rock,Songs with lyrics",Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_295,26-35,Creative/Artistic field,Rarely,Physical tasks,"Rock,Songs with lyrics",Low/Soft,Makes no difference,Yes,Without music,No music at all,sometimes,I don't listen to music
+U_296,36 above,Homemaker,Often,Physical tasks,Songs with lyrics,Moderate,No,Yes,With music,Music with breaks in between,sometimes,I don't listen to music
+U_297,26-35,Office work,Rarely,Physical tasks,"Rock,Songs with lyrics",Low/Soft,Yes,Yes,With music,Music with breaks in between,sometimes,No difference
+U_298,18-25,Work from home,Often,"Writing or creating something, Physical tasks",Songs with lyrics,Low/Soft,Yes,Maybe,With music,Music with breaks in between,Yes,Increases productivity
+U_299,36 above,Homemaker,Sometimes,"Physical tasks, Cooking","Rock,Songs with lyrics",Moderate,Yes,Maybe,With music,Music with breaks in between,Yes,No difference
+U_300,26-35,Self-Employed,Sometimes,Physical tasks,"Rock,Songs with lyrics",Low/Soft,Yes,Maybe,With music,No music at all,sometimes,I don't listen to music
+U_301,36 above,Teacher,Often,"Reading,Writing or creating something,Physical tasks","Instrumental,Songs with lyrics,Nature sounds",Low/Soft,Yes,Maybe,With music,Music playing the entire time,Yes,No difference
